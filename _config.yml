@@ -35,9 +35,9 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
+title: "Тихий остров"
+heading: "silentisland"
+description: "криком чайки звенели мы над мелководьем и гремели меж вспышками света небесного"
 url: "https://alexeytolstopyatov.github.io/silentisland"
 baseurl: "https://alexeytolstopyatov.github.io/silentisland"
 
@@ -48,11 +48,11 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Blog"
+  - title: "Мои шедевры"
     url: "/blog"
-  - title: "Notes"
+  - title: "Шедевры поменьше"
     url: "/notes"
-  - title: "About"
+  - title: "Об Авторе"
     url: "/about"
 
 # Footer
