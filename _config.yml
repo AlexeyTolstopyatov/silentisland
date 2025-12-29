@@ -26,7 +26,7 @@ preferences:
   homepage:
     enabled: false
   search:
-    enabled: true
+    enabled: false
   backlinks:
     enabled: true
   pagepreview:
@@ -48,20 +48,20 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
-    url: "/notes"
   - title: "Blog"
     url: "/blog"
+  - title: "Notes"
+    url: "/notes"
   - title: "About"
     url: "/about"
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2024 Соня Толстопятова. Опубликовано под CC-BY-NC"
   credits:
     enabled: true
-    url: "/credits"
-    text: "Credits"
+    url: "/"
+    text: ":3"
 
 # Collections
 collections:
