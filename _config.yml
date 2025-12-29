@@ -38,8 +38,8 @@ preferences:
 title: "Your Site Title"
 heading: "Your Name"
 description: "A brief description of your site"
-url: "https://yoursite.com"
-baseurl: ""
+url: "https://alexeytolstopyatov.github.io/silentisland"
+baseurl: "https://alexeytolstopyatov.github.io/silentisland"
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
